@@ -26,3 +26,21 @@ Run the script and watch your PC descend into digital chaos.
 git clone https://github.com/YOURNAME/haunted-pc-virus
 cd haunted-pc-virus
 python haunted.py
+
+
+
+## 👾 Disclaimer
+
+This project is a prank simulation.
+It does NOT harm files, networks, or replicate itself — it only annoys the user until ESC is pressed.
+
+## ⚠️ Legal Note:
+This is for educational + entertainment purposes only.
+
+Do NOT use it on anyone’s computer without permission.
+
+The authors take no responsibility for misuse.
+
+This is not real malware, just a harmless prank.
+
+Stay spooky, not criminal. 🕯️👻
