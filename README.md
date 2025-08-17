@@ -1,3 +1,51 @@
+# ☠️ liL_RisKy Virus Prank Suite
+
+██╗     ██╗██╗         ██████╗ ██████╗ ██╗  ██╗
+██║     ██║██║        ██╔═══██╗██╔══██╗██║ ██╔╝
+██║     ██║██║        ██║   ██║██████╔╝█████╔╝ 
+██║     ██║██║        ██║   ██║██╔══██╗██╔═██╗ 
+███████╗██║███████╗██╗╚██████╔╝██║  ██║██║  ██╗
+╚══════╝╚═╝╚══════╝╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝
+
+### 👾 About
+This repo contains multiple prank variants:  
+- `liL_RisKy.py` → full chaos mode (ghost spams Notepad + glitches + whispers).  
+- `liL_tHreAt.py` → lighter but still scary, perfect for demos.  
+- `safer_ver_1.py` → entry-level prank, mostly harmless glitches.  
+
+⚠️ All of them have **one sacred exit**: press **ESC** to banish the ghost.  
+
+---
+
+
+
+## 🛠️ Build Your Own EXE
+
+EXEs are not included (too large for GitHub).
+You can build them yourself with PyInstaller:
+
+pip install pyinstaller keyboard pyautogui
+pyinstaller --onefile liL_RisKy.py
+
+
+## 👉 The executable will appear in dist/.
+
+## 🧟 Features
+
+Haunted keyboard (random emojis, backspace chaos, creepy auto-typing).
+
+Possessed mouse (spirals, shakes, random locks).
+
+Notepad attack (spawns & floods text).
+
+Creepy popups and fake system errors.
+
+Random ghost sounds.
+
+Screen flickers & glitch vibes.
+
+
+
 
 👻 **“Once executed, the ghost will possess your keyboard, mouse, and screen.  
 It whispers, glitches, and spams Notepad with cursed messages.  
