@@ -70,6 +70,13 @@ Run the script and watch your PC descend into digital chaos.
 ---
 
 
+## Download the EXE (Zipped)
+
+Prefer to download the prebuilt version instead of building?
+
+Download Haunted EXEs (zipped) inside dist.zip 
+
+(Use at your own risk — antivirus may warn, it's a harmless prank.)
 
 ## 👾 Disclaimer
 
