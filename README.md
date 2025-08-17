@@ -74,7 +74,7 @@ Run the script and watch your PC descend into digital chaos.
 
 Prefer to download the prebuilt version instead of building?
 
-Download Haunted EXEs (zipped) inside dist.zip 
+Download [Haunted EXEs (zipped)]([url](https://drive.google.com/drive/folders/1FlHPe3f6u5r5Lbi4FN_1hdcgP7nBPNPa?usp=sharing)) inside dist.zip 
 
 (Use at your own risk — antivirus may warn, it's a harmless prank.)
 
