@@ -21,12 +21,6 @@ Run the script and watch your PC descend into digital chaos.
 
 ---
 
-## 🚀 Usage
-```bash
-git clone https://github.com/YOURNAME/haunted-pc-virus
-cd haunted-pc-virus
-python haunted.py
-
 
 
 ## 👾 Disclaimer
@@ -44,3 +38,11 @@ The authors take no responsibility for misuse.
 This is not real malware, just a harmless prank.
 
 Stay spooky, not criminal. 🕯️👻
+
+
+## 🚀 Usage
+```bash
+git clone https://github.com/YOURNAME/haunted-pc-virus
+cd haunted-pc-virus
+python haunted.py
+
