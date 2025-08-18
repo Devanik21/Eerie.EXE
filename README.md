@@ -10,6 +10,7 @@
 
 ### 👾 About
 This repo contains multiple prank variants:  
+- `eViL_gEniUs.py` → **NEW!** The ultimate prank with psychological tricks and desktop chaos.
 - `liL_RisKy.py` → full chaos mode (ghost spams Notepad + glitches + whispers).  
 - `liL_tHreAt.py` → lighter but still scary, perfect for demos.  
 - `safer_ver_1.py` → entry-level prank, mostly harmless glitches.  
@@ -27,6 +28,7 @@ You can build them yourself with PyInstaller:
 
 pip install pyinstaller keyboard pyautogui
 pyinstaller --onefile liL_RisKy.py
+pyinstaller --onefile eViL_gEniUs.py
 
 
 ## 👉 The executable will appear in dist/.
@@ -61,6 +63,15 @@ Only the sacred ESC key can exorcise it…”**
 - **Ghost Whispers**: random pop-ups, fake system errors, and glitch flickers.
 - **Creepy Sounds**: random beeps mimic static and whispers.
 - **Single Exit**: Only pressing **ESC** banishes the ghost.
+
+---
+
+## 😈 eViL_gEniUs Features
+- **Desktop Icon Mayhem**: Replaces the desktop with an unclickable screenshot of itself, hiding the real icons.
+- **Fake System Meltdown**: A harmless but alarming progress bar pretends to delete critical system files.
+- **Audio Chaos**: A barrage of random, jarring sounds to create an unsettling atmosphere.
+- **Ghost Cursor**: A phantom cursor appears and follows the real one, making navigation a nightmare.
+- **Screen Flasher**: The screen will flash with intense colors at random intervals.
 
 ---
 
